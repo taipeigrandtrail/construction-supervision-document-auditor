@@ -1,0 +1,4 @@
+interface:
+  display_name: "監造月報及文書審核員"
+  short_description: "審核監造文件並生成附紅圈佐證的ODT重大缺失表"
+  default_prompt: "使用 $construction-supervision-document-auditor 審核這份監造月報及相關文書，去除非重大缺失，直接生成含改善方式、附件編號及紅圈圖片附件的 ODT 監造月報缺失改善表。"

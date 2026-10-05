@@ -1,0 +1,12 @@
+*.pdf
+*.odt
+*.docx
+*.xlsx
+*.xlsm
+*.jpg
+*.jpeg
+*.png
+tmp/
+output/
+.DS_Store
+Thumbs.db
